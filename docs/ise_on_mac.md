@@ -2,6 +2,10 @@
 
 *I wrote a brief manual to make the VM work for someone like me who owns an arm mac, using QEMU(UTM) x86 emulation. Make & Spike also works, and I was able to solve Task 1 on UTM. The performance is great but may depend on the host machine.*
 
+## Preview
+![CleanShot 2024-04-24 at 15 43 25@2x](https://github.com/junukwon7/ldlab/assets/48399106/2dbf0c56-4cb1-41e0-9835-423459c1d87c)
+![CleanShot 2024-04-24 at 15 44 00@2x](https://github.com/junukwon7/ldlab/assets/48399106/8e02d86d-3688-4f69-8ae4-a40ccfa61e3e)
+
 
 ## Perquisites
 
