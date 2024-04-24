@@ -9,7 +9,7 @@ Also, use `process.py` for testing the code. It's a python-based microprocessor 
 Sample usage:
 ```bash
 # Upload your microprocessor to the FPGA
-# Upload imem1.py to the FPGA
+# Upload imem1.v to the FPGA
 python process.py imem1.v
 # Check the differences
 ```
