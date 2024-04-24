@@ -54,7 +54,7 @@ if __name__ == '__main__':
             if imm == -1:
                 print('[!] End Of Instructions: Infinite loop')
                 break
-        
+
         print('// ', end= '')
         for i, r in enumerate(REG):
             print(f'REG[{i}]({hex(r)})', end=' ')
