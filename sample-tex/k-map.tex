@@ -1,0 +1,24 @@
+\begin{subfigure}{0.4\textwidth}
+	\begin{karnaugh-map}[4][4][1][$I_1I_0$][$I_3I_2$]
+		\minterms{0,5,7,8,9}
+		
+		\maxterms{0,1,2,3,4,5,6,7,8,9}
+		\indeterminants{10,11,12,13,14,15}
+		
+		\implicantedge{0}{0}{8}{8}
+		\implicant{5}{15}
+		\implicant{12}{10}
+	\end{karnaugh-map}
+\end{subfigure}\hfill
+\begin{subfigure}{0.4\textwidth}
+	\begin{karnaugh-map}[4][4][1][$I_1I_0$][$I_3I_2$]
+		\minterms{0,3,5}
+		
+		\maxterms{0,1,2,3,4,5,6,7,8,9}
+		\indeterminants{10,11,12,13,14,15}
+		
+		\implicant{5}{13}
+		\implicantedge{3}{3}{11}{11}
+		\implicant{0}{0}
+	\end{karnaugh-map}
+\end{subfigure}
