@@ -3,7 +3,7 @@
 This repository provides some reference codes & tests for the final ldlab project.
 
 ## Testing
-Check [./test] for testing.
+Check [test](./test).
 
 
 ## Installing ISE 14.7 on a Silicon Mac
