@@ -1,8 +1,8 @@
-# Logic Design 2023
+# SNU Logic Design 2023
 
 This repository provides some reference codes & tests for the final ldlab project.
 
-## Testing
+## Testing for Final Project
 Check [test](./test).
 
 
